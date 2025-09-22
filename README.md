@@ -1,7 +1,7 @@
 
  # 👋 Hello, I'm Mohamed!
 
-🎓 **Age**: 20  
+🎓 **Age**: 21  
 🧠 **Characteristics**: Creative, Tall, Curious, Empathetic, Adventurous, Intelligent
 
 ## 🎮 Favorite Games:
