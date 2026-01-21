@@ -1,45 +1,27 @@
+<table>
+<tr>
+<td valign="top" width="65%">
 
- # 👋 Hello, I'm Mohamed!
+<h1>🪄 Hi! I’m Mohamed</h1>
 
-🎓 **Age**: 21  
-🧠 **Characteristics**: Creative, Tall, Curious, Empathetic, Adventurous, Intelligent
+<p>
+🧠 <strong>CSE</strong> @ OSU<br>
+📚 Minors: <strong>Business</strong> &amp; <strong>Information Security</strong><br>
+⚙️ <strong>Full-stack • AWS • Systems</strong><br>
+🎮 Video games • 📚 Comics &amp; books • 🎬 Movies • 🧩 Anime • 💻 Code
+</p>
 
-## 🎮 Favorite Games:
-- Persona 5 Royal
-- Animal Crossing: City Folk
-- Digital Devil Saga
-- Minecraft
-- Fable
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&width=435&lines=Software+Engineer;Building+cool+things;Learning+every+day" />
 
-## 🍕 Favorite Foods:
-- Pizza
-- Tacos
-- Pasta
-- Ice Cream
+</td>
 
-## 💡 Skills:
-- Programming
-- Public Speaking
-- Problem Solving
-- Leadership
-- Writing
-
-## 🔍 Interests:
-- Software Engineering
-- Machine Learning
-
-## 🚀 Currently Grinding:
-- LeetCode
-- Random Java Projects
-
-## 😄 Pronouns:
-- he/him
-
-## ⚡ Fun Fact:
-I love video games!!!!!!!
+<td valign="top" width="35%" align="center">
+<img src="assets/zatanna.gif" width="260" />
+</td>
+</tr>
+</table>
 
 
-<!---
-MJaggz/MJaggz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+MJaggz/MJaggz is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+-->
