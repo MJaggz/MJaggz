@@ -11,7 +11,7 @@
 🎮 Video games • 📚 Comics &amp; books • 🎬 Movies • 🧩 Anime • 💻 Code
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&width=435&lines=Software+Engineer;Building+cool+things;Learning+every+day" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=38BDF8&width=435&lines=Aspiring+Software+Engineer;Building+cool+things;Learning+every+day" />
 
 </td>
 
